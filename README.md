@@ -1,5 +1,5 @@
 # ast-interpreter
-基于clang的c语言解释器。
+课程项目：基于clang的c语言解释器
 
 支持语法：
 - 类型：int, char, void, 对应类型的指针
